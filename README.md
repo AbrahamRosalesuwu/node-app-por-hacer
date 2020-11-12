@@ -1,6 +1,6 @@
-## APLICACION DE COMANDO
+## Command line application with OpenWeather
 
-Recuerda instalar los paquetes necesarios
+Remember to install the needed packages
 ```
 npm install
 ```
