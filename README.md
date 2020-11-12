@@ -1,4 +1,4 @@
-## Command line application with OpenWeather
+## Command line application
 
 Remember to install the needed packages
 ```
